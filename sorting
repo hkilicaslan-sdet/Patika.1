@@ -1,0 +1,19 @@
+*********  PROJE 1 *******
+
+[22,27,16,2,18,6] -> Insertion Sort
+
+Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+1 - [22,27,16,2,18,6]
+2 - [2,27,16,22,18,6]
+3 - [2,6,16,22,18,27]
+4 - [2,6,16,18,22,27] tamamlandı 
+
+Big-O gösterimini yazınız. => O(n^2)
+
+Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+
+Average case: Aradığımız sayının ortada olması  18 grubun ortalarında yer aldığı için "Average Case" dir
+      Worst case: Aradığımız sayının sonda olması
+      Best case: Aradığımız sayının dizinin en başında olması.
+
+*********  PROJE 2 *******
